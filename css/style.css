@@ -16,7 +16,7 @@ body {
     width: 100%;
     background-color: #e3dfdf;
 }
-.container {
+.wrapper {
     font-family: 'ABeeZee', sans-serif;
     margin: 0 auto;
     min-height: 100%;
@@ -173,7 +173,7 @@ body {
 }
 
 /* body */
-.body-container {
+.body-wrapper {
     color: rgb(0, 0, 0);
     flex: 1 1 auto;
 }
@@ -187,7 +187,7 @@ body {
     
 }
 /* footer */
-.footer-container {
+.footer {
     display: flex;
     justify-content: center;
     align-items: center;
